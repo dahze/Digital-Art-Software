@@ -1,5 +1,5 @@
 # Digital Art Software
-Digital Art Software is a Qt-based graphical application designed for creating and editing images through various drawing tools and shape selection options. It allows users to draw freehand lines, choose pen colors and widths, fill the screen with colors, and create predefined shapes such as rectangles, triangles, stars, and more. Users can open and save images in multiple formats, providing a flexible environment for digital drawing and design tasks.
+Digital Art Software is a Qt-based graphical application designed for creating and editing images through various drawing tools and shape selection options. It allows users to draw freehand lines, choose pen colors and widths, fill the screen with colors, and create predefined shapes such as rectangles, triangles, stars, and more. Users can also open and save images in multiple formats.
 
 ## Classes and Files Overview
 
